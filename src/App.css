@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to left, #000428, #004e92);
+}
+
+.App h1{
+    color: white;
+    
+}
