@@ -1,6 +1,17 @@
 .calculadora{
-    height: 400px;
+    overflow: hidden;
+    font-size: 80px;
+    height: 600px;
+    width: 400px;
     border-color: black;
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: lightgray;
+
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 1fr repeat(5, 16%);
+
+
+
+
 }
