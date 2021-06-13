@@ -1,6 +1,6 @@
 .calculadora{
     overflow: hidden;
-    font-size: 80px;
+    font-size: 50px;
     height: 600px;
     width: 400px;
     border-color: black;
@@ -10,8 +10,5 @@
     display: grid;
     grid-template-columns: repeat(4, 25%);
     grid-template-rows: 1fr repeat(5, 16%);
-
-
-
 
 }

@@ -1,4 +1,19 @@
 .Button {
-    font-size: 60px;
+    font-size: 25px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.double {
+    grid-column:span 2;
+}
+
+.triple {
+    grid-column: span 3;
+}
+
+.operation {
+    background-color: rgb(207, 146, 33);
+    
 
 }
