@@ -4,6 +4,10 @@
     border: 1px solid black;
 }
 
+.Button:hover {
+    background-color: #ff149390;
+}
+
 .double {
     grid-column:span 2;
 }
